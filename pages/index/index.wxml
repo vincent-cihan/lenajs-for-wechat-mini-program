@@ -1,0 +1,4 @@
+<!--pages/TestImageEdit/TestImageEdit.wxml-->
+<canvas style="width:{{canvas_width}}px;height:{{canvas_height}}px" canvas-id="canvas"></canvas>
+
+<button catchtap='selectImage'>选择图片</button>
